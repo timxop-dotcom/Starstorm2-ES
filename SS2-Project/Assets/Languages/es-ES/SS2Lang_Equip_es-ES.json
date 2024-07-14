@@ -21,30 +21,30 @@
 		"SS2_EQUIP_MAGNET_LORE": "",
 
 		"SS2_EQUIP_MIDAS_NAME": "M.I.D.A.S.",
-		"SS2_EQUIP_MIDAS_PICKUP": "Lose a portion of your current health, and gain that amount in gold.",
-		"SS2_EQUIP_MIDAS_DESC": "Sacrifice <style=cIsHealth>{0}%</style> of your <style=cIsHealth>current health</style>, gaining either the amount of <style=cIsHealth>health lost</style> or <style=cIsUtility>the price of a standard chest</style> as <style=cIsUtility>gold</style>, depending on which is higher.",
-		"SS2_EQUIP_MIDAS_LORE": "\"What do you think it means?\"\n\nThey both had been wondering. She was the first to ask aloud.\n\n\"My... Ideal Day Alone Starts?\" He gave her a toothy smile.\n\n\"Memphis Is Dying Again Stephan.\"\n\n\"Mitochondria Is Defeated At Six.\"\n\n\"Mortician Ignores Death And Sighs.\"\n\n\"Poetic, that one.\" He scratched his chin. \"Wanna open it up?\"\n\n\"Hell no!\"",
+		"SS2_EQUIP_MIDAS_PICKUP": "Pierde una parte de tu salud actual y gana esa cantidad en oro.",
+		"SS2_EQUIP_MIDAS_DESC": "Sacrifica <style=cIsHealth>{0}%</style> de tu <style=cIsHealth>vida actual</style>, ganando ya sea la cantidad de <style=cIsHealth>vida perdida</style> o <style=cIsUtility>el precio de un cofre standard</style> en <style=cIsUtility>oro</style>, dependiendo cual sea mayor.",
+		"SS2_EQUIP_MIDAS_LORE": "\"Que crees que signifique?\"\n\nAmbos se lo habían estado preguntando. Ella fue la primera en preguntar en voz alta.\n\n\"Mi... día ideal a solas ya comienza?\" Él le sonrió con los dientes.\n\n\"Memphis está muriendo de nuevo Stephan.\"\n\n\"La mitocondria es vencida a los seis\"\n\n\"Mortician Ignora La Muerte Y Suspira.\"\n\n\"Poético.\" Se rascó el mentón. \"¿Quieres abrirlo?\"\n\n\"¡Claro que no!\"",
 
-		"SS2_EQUIP_PRESSURIZEDCANISTER_NAME": "Pressurized Canister",
-		"SS2_EQUIP_PRESSURIZEDCANISTER_PICKUP": "Launch yourself into the air, and temporarily gain an additional extra jump that expires upon touching the ground.",
-		"SS2_EQUIP_PRESSURIZEDCANISTER_DESC": "<style=cIsUtility>Launch</style> yourself into the air. Gain <style=cIsUtility>1 extra jump</style> that expires if not used before landing.",
-		"SS2_EQUIP_PRESSURIZEDCANISTER_LORE": "Order: Pressured Air Canister (24)\nTracking Number: 182*****\nEstimated Delivery: 06/29/2056\nShipping Method: Standard / Fragile\nShipping Address: Tri-City Gas Shipment Center, Tri-City, Earth\nShipping Details:\n\nThis is the, uh, fifth, is it now? Fifth order of pressurized air canisters to this address. Now, I'm not going to judge, I mean, maybe you didn't know you'd need more canisters, for, uh, four times in a row, but, like, you do know you save quite a bit when you buy in bulk, right?\n\nWhatever, HOMBREnHOMBRE. I mean, I don't really know what you'd need with a hundred and twenty total air canisters over the span of about two months, but I guess you do you.\n",
+		"SS2_EQUIP_PRESSURIZEDCANISTER_NAME": "Bote a presión",
+		"SS2_EQUIP_PRESSURIZEDCANISTER_PICKUP": "Lánzate por los aires y obtén temporalmente un salto adicional que expira al tocar el suelo.",
+		"SS2_EQUIP_PRESSURIZEDCANISTER_DESC": "<style=cIsUtility>Lánzate</style> por los aires. Ganando <style=cIsUtility>1 extra salto</style> que expira al tocar el suelo.",
+		"SS2_EQUIP_PRESSURIZEDCANISTER_LORE": "Orden: Bote a presión (24)\nNúmero de seguimiento: 182*****\nEntrega estimada: 06/29/2056\nMétodo de envío: Estándar / Frágil\nDirección de envío: Tri-City Gas Shipment Center, Tri-City, Earth\nDetalles del envío:\n\nEste es el quinto, ¿no? Quinto pedido de botes a presión a esta dirección. Ahora, no voy a juzgar, quiero decir, tal vez usted no sabía que necesitaría más botes, para, uh, cuatro veces seguidas, pero, como, usted sabe que usted ahorra bastante cuando usted compra al por mayor, ¿verdad?\n\nComo sea, hombre. Quiero decir, realmente no sé para qué necesitarías ciento veinticinco Botes a Presión en total en el transcurso de dos meses, pero supongo que tu haces lo que quieras.\n",
 
-		"SS2_EQUIP_ROCKFRUIT_NAME": "Rock Fruit",
-		"SS2_EQUIP_ROCKFRUIT_PICKUP": "Transmute a random item.",
-		"SS2_EQUIP_ROCKFRUIT_DESC": "<style=cIsUtility>Transmute</style> a <style=cIsHealth>random</style> item from your inventory into another of the <style=cIsUtility>same tier</style>.",
+		"SS2_EQUIP_ROCKFRUIT_NAME": "Fruta de roca",
+		"SS2_EQUIP_ROCKFRUIT_PICKUP": "Transmuta un objeto aleatorio.",
+		"SS2_EQUIP_ROCKFRUIT_DESC": "<style=cIsUtility>Transmuta</style> un <style=cIsHealth>Objeto aleatorio</style> de tu inventario en otro de la <style=cIsUtility>misma categoría</style>.",
 		"SS2_EQUIP_ROCKFRUIT_LORE": "",
 
-		"SS2_EQUIP_WHITEFLAG_NAME": "White Flag",
-		"SS2_EQUIP_WHITEFLAG_PICKUP": "Place a white flag that disables skill usage in an area.",
-		"SS2_EQUIP_WHITEFLAG_DESC": "Place a white flag that <style=cIsUtility>disables skill usage</style> within <style=cIsUtility>{0}m</style>. Lasts <style=cIsUtility>{1} seconds</style>.",
+		"SS2_EQUIP_WHITEFLAG_NAME": "Banderín blanco",
+		"SS2_EQUIP_WHITEFLAG_PICKUP": "Coloca un banderín blanco que desactiva el uso de habilidades en una zona.",
+		"SS2_EQUIP_WHITEFLAG_DESC": "Coloca un banderín blanco que <style=cIsUtility>desactiva el uso de habilidades</style> en una radio de <style=cIsUtility>{0}m</style>. Tiene una duración de <style=cIsUtility>{1} segundos</style>.",
 		"SS2_EQUIP_WHITEFLAG_LORE": "",
 
-		"SS2_SKILL_DISABLED_NAME": "Disabled",
-		"SS2_SKILL_DISABLED_DESCRIPTION": "This skill has been disabled.",
+		"SS2_SKILL_DISABLED_NAME": "Desactivado",
+		"SS2_SKILL_DISABLED_DESCRIPTION": "Está habilidad fue Desactivada",
 
 		"SS2_EQUIP_NEMCAPEQUIP_NAME": "Morleys",
-		"SS2_EQUIP_NEMCAPEQUIP_PICKUP": "Reduce the stress of your situation. <style=cIsHealth>Smoking is bad for you!</style>",
-		"SS2_EQUIP_NEMCAPEQUIP_DESC": "<style=cIsHealth>Burn yourself</style> for <style=cIsHealth>10% of your max health</style> to remove <style=cIsUtility>25%</style> of your <style=cIsUtility>stress</style>, and temporariliy reduce incoming <style=cIsUtility>stress gain</style> by <style=cIsUtility>50%</style> for <style=cIsUtility>8</style> seconds."
+		"SS2_EQUIP_NEMCAPEQUIP_PICKUP": "Reduce el Estrés de tu situación <style=cIsHealth>Fumar es malo para tí!</style>",
+		"SS2_EQUIP_NEMCAPEQUIP_DESC": "<style=cIsHealth>Prendete llamas</style> por <style=cIsHealth>10% de tu salud máxima</style> para quitarte un <style=cIsUtility>25%</style> de tú <style=cIsUtility>estrés</style>, y temporalmente reducir el entrante <style=cIsUtility>aumento de estrés</style> en un <style=cIsUtility>50%</style> durante <style=cIsUtility>8</style> segundos."
 	}
 }
